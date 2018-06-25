@@ -1,3 +1,3 @@
 # Rezimski sajtovi
 
-Ovo je *adBlock/uBlock origin* lista rezimskih medija
+*adBlock/uBlock origin* lista režimskih medija.
