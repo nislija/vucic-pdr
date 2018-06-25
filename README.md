@@ -1,3 +1,3 @@
-# Rezimski sajtovi
+# Blokiranje režimskih sajtova i tekstova o vučiću
 
-*adBlock/uBlock origin* lista režimskih medija.
+**adBlock/uBlock origin** lista režimskih medija.
